@@ -4,8 +4,10 @@ This repo contains 6 regression models of supervised learning under Machine Lear
 # Dataset
 The dataset 'Salary_Data(for Simple LR)' is a linearly separable data and is for the following model(s) :- 
   1. Simple Linear Regression.
+  
 The dataset '50-Startups(for Multi LR)' is a linearly separable data and is for the following model(s) :-
   1. Multiple Linear Regression.
+
 The dataset 'Position_Salaries' is a non-linearly separable data and is for the following model(s) :-
   1. Polynomial regression.
   2. Support Vector regression.
