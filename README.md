@@ -2,9 +2,11 @@
 This repo contains 6 regression models of supervised learning under Machine Learning :) 
 
 # Dataset
-The dataset 'Salary_Data(for Simple LR)' is for simple linear regression model.
-The dataset '50-Startups(for Multi LR)' is for multiple linear regression model.
-The dataset 'Position_Salaries' is for the following models :-
+The dataset 'Salary_Data(for Simple LR)' is a linearly separable data and is for the following model(s) :- 
+  1. Simple Linear Regression.
+The dataset '50-Startups(for Multi LR)' is a linearly separable data and is for the following model(s) :-
+  1. Multiple Linear Regression.
+The dataset 'Position_Salaries' is a non-linearly separable data and is for the following model(s) :-
   1. Polynomial regression.
   2. Support Vector regression.
   3. Decision Tree regression.
